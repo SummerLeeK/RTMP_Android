@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ffmpeg/3rdparty/FFmpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ffmpeg/3rdparty/libvpx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ffmpeg/3rdparty/x264" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ffmpeg/src/3rdparty/FFmpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rtmp_hardcodec/src/main/cpp/rtmpdump" vcs="Git" />
+  </component>
+</project>
